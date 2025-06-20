@@ -6,9 +6,6 @@
 ### Description
 Random organization, random projects. Maybe it'll get serious one day
 
-Most of the stuff is private but will maybe be made open-source later
-
-### What i currently have in the works:
-nothing
+Most of the stuff is private but will maybe be made open-source if they get to a stable/usable state
 
 <sub>i lowkey lazy so don't expect anything to drop fast - oh and, yes i snatched this from Running-With-Bricks :trollface:</sub>
